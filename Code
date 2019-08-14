@@ -1,11 +1,9 @@
 /*
- *  Salon de Thé ! :)
  *
- *  plante connectée lcd+ capteur & twitter  
- *   By : KoS_, X3L4
- *  
- * Twitter:  https://twitter.com/4l3xWagner
- * linkedin : https://fr.linkedin.com/in/alexandre-wagner-5280a4138
+ *  plante connectée lcd + capteur   
+ *  By : Alexandre Wagner
+ * 
+ *  Linkedin : https://fr.linkedin.com/in/alexandre-wagner-5280a4138
  *
  */
  
@@ -85,5 +83,3 @@ void loop()
   lcd.scrollDisplayLeft();
   delay(2000);
 }
-
-// Code Hard & Have fun.
